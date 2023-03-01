@@ -1,1 +1,3 @@
+# PageRank
+
 Le programme implémente l'algorithme PageRank utilisé par le moteur de recherche Google pour trier les résultats d'une requête par ordre d'importance décroissante. Le programme utilise un graphe orienté représentant les pages Web. Chaque page est représentée par un nœud, et chaque lien entre les pages est représenté par une arête dirigée. Pour chaque nœud du graphe, le programme calcule le PageRank, qui est une mesure de l'importance des pages. Le PageRank est calculé en fonction des liens entrants et sortants de chaque nœud. Les pages ayant un PageRank élevé sont considérées comme plus importantes et apparaîtront en haut des résultats de recherche.
